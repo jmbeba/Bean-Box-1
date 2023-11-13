@@ -156,38 +156,6 @@
         "likes": 480,
         "flavors": ["Chocolate", "Nutty", "Spicy"],
         "price": "Ksh 870"
-      },
-      {
-        "id": 16,
-        "category": "Coffee Drinks",
-        "name": "Vanilla Latte",
-        "image": "https://images.unsplash.com/photo-1564633193351-8bdd3a70bcf6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fFZhbmlsbGElMjBMYXR0ZXxlbnwwfHwwfHx8MA%3D%3D",
-        "recipe": "A delightful coffee drink made with espresso, steamed milk, and a touch of sweet vanilla. Enjoy the creamy and aromatic experience.",
-        "likes": 720,
-        "ingredients": ["Espresso", "Steamed Milk", "Vanilla Syrup"],
-        "flavors": ["Vanilla", "Classic", "Caramel"],
-        "price": "Ksh 420"
-      },
-      {
-        "id": 17,
-        "category": "Coffee Beans",
-        "name": "Guatemalan Antigua",
-        "image": "https://www.coffeeam.com/cdn/shop/products/86f91bf9c2217ea116059ab3c7e05ac8_320x320.jpg?v=1591202090",
-        "recipe": "Recipe Here",
-        "likes": 450,
-        "flavors": ["Classic", "Caramel", "Chocolate"],
-        "price": "Ksh 920"
-      },
-      {
-        "id": 18,
-        "category": "Coffee Drinks",
-        "name": "Cinnamon Mocha",
-        "image": "https://images.unsplash.com/photo-1589396575653-c09c794ff6a6?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8Q2lubmFtb24lMjBNb2NoYSUyMGRyaW5rfGVufDB8fDB8fHww",
-        "recipe": "An indulgent coffee drink made with espresso, steamed milk, and a hint of cinnamon and chocolate. Savor the warm and spiced flavors.",
-        "likes": 550,
-        "ingredients": ["Espresso", "Steamed Milk", "Cinnamon Syrup", "Chocolate"],
-        "flavors": ["Cinnamon", "Chocolate", "Vanilla"],
-        "price": "Ksh 460"
-      },
+      }
   ]
 }
